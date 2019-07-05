@@ -1,7 +1,7 @@
 import User from '../models/User';
 
 class UserController {
-  static async store(req, res) {
+  async store(req, res) {
     const userExists = await User.findOne({ where: { email: req.body.email } });
 
     if (userExists) {
@@ -18,4 +18,4 @@ class UserController {
   }
 }
 
-export default UserController;
+export default new UserController();
