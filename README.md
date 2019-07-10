@@ -23,7 +23,7 @@ yarn dev
 - [x] Express Routes
 - [x] JWT
 - [x] Sequelize
-- [ ] Multer(Upload files)
+- [x] Multer(Upload files)
 - [ ] TDD (Test Driven Design) 
 - [ ] Nodemailer
 - [ ] Redis( queue control )
