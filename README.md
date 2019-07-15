@@ -1,6 +1,6 @@
-# MeetApp (Acronym for Meetup and Application)
+# GoBarber
 
-## Meetapp is a Node.js POC( Proof of Concept ), used to test certain concepts
+## GoBarber is a Node.js POC( Proof of Concept ), used to test certain concepts
 
 ### Get Started 
 
@@ -24,9 +24,9 @@ yarn dev
 - [x] JWT
 - [x] Sequelize
 - [x] Multer(Upload files)
-- [ ] TDD (Test Driven Design) 
-- [ ] Nodemailer
+- [x] MongoDB
+- [x] Nodemailer
 - [ ] Redis( queue control )
-- [ ] Environment variables
-- [ ] MongoDB
 - [ ] Handling Exceptions
+- [ ] Environment variables
+- [ ] TDD (Test Driven Design) 
