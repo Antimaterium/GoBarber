@@ -23,7 +23,9 @@ yarn dev
 - [x] Express Routes
 - [x] JWT
 - [x] Sequelize
-- [x] Multer(Upload files)
+- [x] Multer( Upload files )
+- [x] Yup( Validate Input )
+- [x] BcryptJs( Encrypting data )
 - [x] MongoDB
 - [x] Nodemailer
 - [ ] Redis( queue control )
