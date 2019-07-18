@@ -28,6 +28,7 @@ yarn dev
 - [x] BcryptJs( Encrypting data )
 - [x] MongoDB
 - [x] Nodemailer
+- [x] Handlebars( template engine )
 - [ ] Redis( queue control )
 - [ ] Handling Exceptions
 - [ ] Environment variables
