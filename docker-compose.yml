@@ -1,0 +1,17 @@
+version: '2'
+
+services:
+  postgres:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: postgres
+  mongo:     
+    image: mongo
+    ports:
+      - "27017:27017"
+  redis:     
+    image: redis:alpine
+    ports:
+      - "6379:6379"
